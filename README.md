@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,25:1D4ED8,60:2563EB,100:38BDF8&height=240&section=header&text=Ra%20Manuth&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=FinTech%20Student%20|%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=20&animation=twinkling"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,25:1D4ED8,60:2563EB,100:38BDF8&height=240&section=header&text=Ra%20Manuth&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=FinTech%20Student%20|%20Machine%20Learning%20Enthusiast%20|%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=20&animation=twinkling"/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Business+Insights;FinTech+Student+at+ACLEDA+University+of+Business;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real+World+Data+Science+Projects;Learning+Apache+Spark+%26+Cloud+Computing"/>
 </p>
@@ -20,7 +19,7 @@
 
 🎓 **FinTech Student** at **ACLEDA University of Business**
 
-I am passionate about **Data Science**, **Machine Learning**, **Data Analytics**, and **Financial Technology**.
+I passionate about **Data Science**, **Machine Learning**, **Data Analytics**, and **Financial Technology**.
 
 I enjoy transforming raw data into valuable insights and building machine learning solutions that solve real-world business problems.
 
@@ -41,18 +40,6 @@ My mission is to continuously improve my technical skills through practical proj
 ---
 
 # 🎯 Current Focus
-
-✔ Data Analysis
-
-✔ Machine Learning
-
-✔ Data Cleaning
-
-✔ Feature Engineering
-
-✔ Data Visualization
-
-✔ SQL Databases
 
 ✔ Apache Spark
 
