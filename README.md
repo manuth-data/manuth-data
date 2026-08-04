@@ -6,11 +6,3 @@
 
 ---
  
-## 🔗 Connect
- 
-<p>
-  <a href="[https://www.linkedin.com/in/ra-manuth-54687739a](https://www.linkedin.com/in/manuth-ra-54687739a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ramanuth8554@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,25:2563EB,50:1D4ED8,75:1E40AF,100:1E3A8A&height=120&section=footer"/>
