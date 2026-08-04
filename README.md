@@ -1,59 +1,337 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1220"/>
-      <stop offset="50%" stop-color="#101a2e"/>
-      <stop offset="100%" stop-color="#0b1120"/>
-    </linearGradient>
-    <linearGradient id="bars" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0.15"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="35%" r="65%">
-      <stop offset="0%" stop-color="#1e40af" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#1e40af" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,25:1D4ED8,60:2563EB,100:38BDF8&height=240&section=header&text=Ra%20Manuth&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=FinTech%20Student%20|%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=20&animation=twinkling"/>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#glow)"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Business+Insights;FinTech+Student+at+ACLEDA+University+of+Business;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real+World+Data+Science+Projects;Learning+Apache+Spark+%26+Cloud+Computing"/>
+</p>
 
-  <!-- decorative bar chart, left -->
-  <g opacity="0.9">
-    <rect x="40"  y="210" width="18" height="60" fill="url(#bars)"/>
-    <rect x="66"  y="180" width="18" height="90" fill="url(#bars)"/>
-    <rect x="92"  y="150" width="18" height="120" fill="url(#bars)"/>
-    <rect x="118" y="195" width="18" height="75" fill="url(#bars)"/>
-    <rect x="144" y="130" width="18" height="140" fill="url(#bars)"/>
-    <rect x="170" y="165" width="18" height="105" fill="url(#bars)"/>
-    <rect x="196" y="110" width="18" height="160" fill="url(#bars)"/>
-  </g>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=manuth-data&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
-  <!-- decorative node network, right -->
-  <g stroke="#3b82f6" stroke-opacity="0.45" stroke-width="1.2">
-    <line x1="980" y1="70"  x2="1050" y2="110"/>
-    <line x1="1050" y1="110" x2="1010" y2="170"/>
-    <line x1="1050" y1="110" x2="1120" y2="90"/>
-    <line x1="1010" y1="170" x2="1090" y2="200"/>
-    <line x1="1120" y1="90" x2="1150" y2="150"/>
-    <line x1="1090" y1="200" x2="1150" y2="150"/>
-  </g>
-  <g fill="#60a5fa">
-    <circle cx="980" cy="70" r="4"/>
-    <circle cx="1050" cy="110" r="5"/>
-    <circle cx="1010" cy="170" r="4"/>
-    <circle cx="1120" cy="90" r="4"/>
-    <circle cx="1090" cy="200" r="4"/>
-    <circle cx="1150" cy="150" r="5"/>
-  </g>
+<img src="https://img.shields.io/badge/Open%20to-Internship-blue?style=for-the-badge"/>
 
-  <!-- title -->
-  <text x="600" y="118" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#f5f7fa" letter-spacing="2">RA MANUTH</text>
+<img src="https://img.shields.io/badge/Focus-Data%20Science-blue?style=for-the-badge"/>
 
-  <!-- subtitle -->
-  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#7ea8f0" letter-spacing="4">DATA SCIENCE  •  MACHINE LEARNING  •  FINTECH</text>
+<img src="https://img.shields.io/badge/Learning-Big%20Data%20%26%20Cloud-blue?style=for-the-badge"/>
+</p>
 
-  <!-- pill badge -->
-  <rect x="410" y="190" width="380" height="42" rx="21" fill="#111a2e" stroke="#3b5a9a" stroke-width="1.2"/>
-  <text x="600" y="217" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c9d6f0">Turning Data into Meaningful Insights</text>
-</svg>
+---
+
+# 👋 Hello, I'm Ra Manuth
+
+🎓 **FinTech Student** at **ACLEDA University of Business**
+
+I am passionate about **Data Science**, **Machine Learning**, **Data Analytics**, and **Financial Technology**.
+
+I enjoy transforming raw data into valuable insights and building machine learning solutions that solve real-world business problems.
+
+My mission is to continuously improve my technical skills through practical projects while preparing for a professional career as a **Data Scientist**.
+
+---
+
+# 🚀 About Me
+
+- 🎓 FinTech Student
+- 📊 Aspiring Data Scientist
+- 🤖 Machine Learning Enthusiast
+- 🏦 Interested in Financial Analytics
+- 📈 Passionate about Data-Driven Decision Making
+- 🌱 Currently Learning Apache Spark & AWS Cloud
+- 💡 Always Learning New Technologies
+
+---
+
+# 🎯 Current Focus
+
+✔ Data Analysis
+
+✔ Machine Learning
+
+✔ Data Cleaning
+
+✔ Feature Engineering
+
+✔ Data Visualization
+
+✔ SQL Databases
+
+✔ Apache Spark
+
+✔ Cloud Computing
+
+---
+
+# 🚀 Featured Projects
+
+## 💳 Financial Fraud Detection
+
+Detect fraudulent financial transactions using Machine Learning.
+
+**Skills**
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Feature Engineering
+- Classification
+
+---
+
+## 🏦 Credit Risk Prediction
+
+Predict customer credit risk using supervised machine learning.
+
+**Skills**
+
+- Data Cleaning
+- EDA
+- Machine Learning
+- Model Evaluation
+
+---
+
+## 🏥 Hospital Management System
+
+Database Management System using SQL.
+
+---
+
+## 🛒 Supermarket Billing System
+
+Retail Database System using SQL Server.
+
+---
+
+## 📊 Customer Behavior Dashboard
+
+Business Dashboard using Power BI.
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java"/>
+
+</p>
+
+**SQL**
+
+---
+
+## 📊 Data Science
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib,seaborn,jupyter"/>
+
+</p>
+
+- Machine Learning
+
+- Data Cleaning
+
+- Feature Engineering
+
+- Data Visualization
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+- SQL Server
+
+- Oracle Database
+
+---
+
+## 📈 Analytics
+
+- Microsoft Excel
+
+- Power BI
+
+---
+
+## 🧰 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+- Jupyter Notebook
+
+- Streamlit
+
+---
+
+# 🌱 Currently Learning
+
+- Apache Spark (PySpark)
+
+- Apache Hadoop
+
+- Big Data
+
+- AWS Cloud
+
+- Advanced Machine Learning
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build 15+ Data Science Projects
+
+- 🤖 Master Machine Learning
+
+- ⚡ Learn Apache Spark
+
+- ☁ Learn AWS Cloud
+
+- 📱 Deploy Machine Learning Applications
+
+- 🌍 Contribute to Open Source
+
+- 💼 Get My First Data Science Internship
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+Python          ██████████ 100%
+
+SQL             ██████████ 100%
+
+Pandas          ██████████ 100%
+
+NumPy           ██████████ 100%
+
+EDA             █████████░ 90%
+
+Machine Learning█████████░ 90%
+
+Feature Eng.    ████████░░ 80%
+
+Power BI        ████████░░ 80%
+
+Streamlit       ███████░░░ 70%
+
+Apache Spark    ███░░░░░░░ 30%
+
+AWS Cloud       ██░░░░░░░░ 20%
+```
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manuth-data&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuth-data&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=manuth-data&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manuth-data&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💡 My Philosophy
+
+> **"Every dataset tells a story. My mission is to uncover it and transform it into meaningful insights that create real-world impact."**
+
+---
+
+# 🌟 Fun Facts
+
+- 💙 Love solving business problems using data
+
+- 📖 Enjoy learning new technologies every day
+
+- ☕ Coffee + Python = Productivity
+
+- 🚀 Believe consistency beats perfection
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/manuth-data">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_KAGGLE_URL">
+
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+## ⭐ Favorite Quote
+
+> **"Learning today, building tomorrow, and creating data-driven solutions that make a real impact."**
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile! 😊
+
+If you enjoy my projects, feel free to ⭐ my repositories and connect with me.
+
+Let's learn, build, and grow together! 🚀
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,25:1D4ED8,60:2563EB,100:38BDF8&height=120&section=footer"/>
